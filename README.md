@@ -1,13 +1,13 @@
 ## Hi 👋 I'm David
 
-🎓 Informatics Engineering (Teknik Informatika) student  
+🎓 Informatics Engineering student  
 🐧 Linux enthusiast | Python & Go learner
 
 I enjoy working with Linux environments and learning programming
 step by step, especially for CLI tools, backend, and system-related projects.
 
 ### About Me
-- 🎓 Major: Informatics Engineering (Teknik Informatika)
+- 🎓 Major: Informatics Engineering
 - 🐧 Daily Linux user
 - 🐍 Learning Python (automation, async, CLI tools)
 - 🐹 Learning Go (CLI tools & backend basics)
