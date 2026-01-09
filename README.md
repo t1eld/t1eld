@@ -13,13 +13,4 @@ step by step, especially for CLI tools, backend, and system-related projects.
 - 🐹 Learning Go (CLI tools & backend basics)
 - ⚙️ Interested in systems, networking, and backend development
 
-### Tech Stack
-- OS: Linux
-- Languages: Python, Go
-- Tools: Git, Bash
-
-### Projects
-Most of my repositories are small learning projects and experiments.
-I focus on making them clean, functional, and well-documented.
-
-> Still learning, still growing. No rush.
+> Still learning, still growing. No rush. ^_^
