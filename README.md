@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acta non Verba&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acta%20non%20Verba&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </a>
 
 </div>
