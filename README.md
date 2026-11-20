@@ -1,8 +1,7 @@
 <div align="center">
 
-# Acta non Verba
-
-*Nulla dies sine linea.*
+> *"Talk is cheap. Show me the code."*
+> — Linus Torvalds
 
 <a href="https://t1eld.pages.dev"><img src="https://img.shields.io/badge/Blog-2E3440?style=for-the-badge&logo=rss&logoColor=88C0D0" alt="Blog" /></a>
 <a href="https://github.com/t1eld?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0" alt="Repositories" /></a>
