@@ -1,6 +1,6 @@
 <div align="center">
 
-> *"Talk is cheap. Show me the code."*
+*"Talk is cheap. Show me the code."*
 <br>— Linus Torvalds
 
 <a href="https://t1eld.pages.dev"><img src="https://img.shields.io/badge/Blog-2E3440?style=for-the-badge&logo=rss&logoColor=88C0D0" alt="Blog" /></a>
