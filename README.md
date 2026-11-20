@@ -1,4 +1,6 @@
-<!-- BLOG-POST-LIST:START -->> [!TIP]\n> **Latest Writing:** [Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END -->
+> [!TIP]
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
 
 <a href="https://github.com">
