@@ -1,5 +1,5 @@
-> [!TIP]
-> **Latest Writing:** [Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/) — *t1eld.pages.dev*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
 
 <a href="https://github.com">
