@@ -1,5 +1,6 @@
 > [!TIP]
-<!-- BLOG-POST-LIST:START -->> **Latest Writing:** [Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END -->
+> <!-- BLOG-POST-LIST:START -->**Latest Writing:** [Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END -->
+
 <div align="center">
 
 <a href="https://github.com">
@@ -7,4 +8,3 @@
 </a>
 
 </div>
-
