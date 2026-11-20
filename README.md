@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/t1eld">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=1500&color=88C0D0&center=true&vCenter=true&width=600&lines=What+I+cannot+create%2C+I+do+not+understand.;%E2%80%94+Richard+Feynman" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=1500&color=88C0D0&center=true&vCenter=true&width=500&lines=Stay+hungry%2C+stay+foolish.;%E2%80%94+Steve+Jobs" alt="Quote" />
 </a>
 
 <br>
