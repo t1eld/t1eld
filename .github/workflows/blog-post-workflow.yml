@@ -19,4 +19,4 @@ jobs:
         with:
           feed_list: "https://t1eld.pages.dev/feed.xml"
           max_post_count: 1
-          template: '> **Latest Writing:** [$title]($url)'
+          template: '**Latest Writing:** [$title]($url)'
