@@ -1,5 +1,10 @@
-> [!NOTE]
-> **Latest Writing:** <!-- BLOG-POST-LIST:START -->[Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+| 📝 Latest Writing |
+|:---:|
+| <!-- BLOG-POST-LIST:START -->[Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END --> |
+
+</div>
 
 <div align="center">
 
