@@ -1,7 +1,10 @@
 <div align="center">
 
-*"Talk is cheap. Show me the code."*
-<br>— Linus Torvalds
+<a href="https://github.com/t1eld">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&pause=1500&color=88C0D0&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;%E2%80%94+Linus+Torvalds" alt="Quote" />
+</a>
+
+<br>
 
 <a href="https://t1eld.pages.dev"><img src="https://img.shields.io/badge/Blog-2E3440?style=for-the-badge&logo=rss&logoColor=88C0D0" alt="Blog" /></a>
 <a href="https://github.com/t1eld?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0" alt="Repositories" /></a>
