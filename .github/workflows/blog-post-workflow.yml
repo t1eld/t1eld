@@ -19,4 +19,4 @@ jobs:
         with:
           feed_list: "https://t1eld.pages.dev/feed.xml"
           max_post_count: 1
-          template: '[![Latest Post](https://img.shields.io/badge/LATEST_POST-$title-1a1b26?style=for-the-badge&labelColor=7aa2f7&color=1a1b26&logo=rss&logoColor=1a1b26)]($url)'
+          template: '> [!TIP]\n> **Latest Writing:** [$title]($url)'
