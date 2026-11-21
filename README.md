@@ -17,7 +17,7 @@
 
 | 📝 Latest Writing |
 |:---:|
-| <!-- BLOG-POST-LIST:START -->[Reverse Shell 101: Cara Kerja dan Proteksi](https://t1eld.pages.dev/posts/reverse-shell/)<!-- BLOG-POST-LIST:END --> |
+| <!-- BLOG-POST-LIST:START -->[Jalanin LLM Lokal di Fedora pakai Ollama](https://t1eld.pages.dev/posts/ollama-di-fedora-llm-lokal/)<!-- BLOG-POST-LIST:END --> |
 
 </div>
 
